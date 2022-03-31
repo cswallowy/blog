@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/cswallowy/blog</id>
+    <id>https://cswallowy.github.io/blog</id>
     <title>夏</title>
-    <updated>2022-03-31T06:21:46.073Z</updated>
+    <updated>2022-03-31T06:22:08.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/cswallowy/blog"/>
-    <link rel="self" href="https://github.com/cswallowy/blog/atom.xml"/>
+    <link rel="alternate" href="https://cswallowy.github.io/blog"/>
+    <link rel="self" href="https://cswallowy.github.io/blog/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/cswallowy/blog/images/avatar.png</logo>
-    <icon>https://github.com/cswallowy/blog/favicon.ico</icon>
+    <logo>https://cswallowy.github.io/blog/images/avatar.png</logo>
+    <icon>https://cswallowy.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2022, 夏</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/cswallowy/blog/post/hello-gridea/</id>
-        <link href="https://github.com/cswallowy/blog/post/hello-gridea/">
+        <id>https://cswallowy.github.io/blog/post/hello-gridea/</id>
+        <link href="https://cswallowy.github.io/blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
